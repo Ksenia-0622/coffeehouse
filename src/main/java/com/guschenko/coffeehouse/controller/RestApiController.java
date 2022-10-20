@@ -22,7 +22,8 @@ public class RestApiController {
                 new Coffee("Café Cereza"),
                 new Coffee("Café Ganador"),
                 new Coffee("Café Lareño"),
-                new Coffee("Café Três Pontas")
+                new Coffee("Café Três Pontas"),
+                new Coffee("Café Latte")
         ));
     }
 
