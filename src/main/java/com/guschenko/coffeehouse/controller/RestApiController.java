@@ -1,6 +1,6 @@
 package com.guschenko.coffeehouse.controller;
 
-import com.guschenko.coffeehouse.dto.coffee.Coffee;
+import com.guschenko.coffeehouse.model.Coffee;
 import com.guschenko.coffeehouse.repository.CoffeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

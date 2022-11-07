@@ -1,4 +1,4 @@
-package com.guschenko.coffeehouse.dto.coffee;
+package com.guschenko.coffeehouse.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
